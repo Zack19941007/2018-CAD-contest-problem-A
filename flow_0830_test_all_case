@@ -27,6 +27,7 @@ import base64
 import time
 
 # timer start
+#t_start = time.time()
 t_start = time.time()
 t_start_plus_29m = t_start + 29*60 + 30
 t_now = time.time()
